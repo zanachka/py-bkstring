@@ -1,0 +1,11 @@
+./lib/__init__.py
+./lib/compare.py
+./lib/bkgraph.py
+./lib/bktree.py
+./setup.py
+./AGENTS.md
+./README.md
+./bench.py
+./tests/test_bktree.py
+./tests/test_bkgraph.py
+./tests/test_compare.py

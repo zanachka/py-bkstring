@@ -1,0 +1,3 @@
+./test_bktree.py
+./test_bkgraph.py
+./test_compare.py
